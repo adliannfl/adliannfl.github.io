@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: Ore_no_GitHub
+description: Sebuah GitHub Pages yang menceritakan saya.
+author: R. Adlian Naufal Fikri
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: adliannfl@gmail.com
 
 plugins:
   - jekyll-seo-tag
