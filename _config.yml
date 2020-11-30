@@ -29,15 +29,11 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
+logo: gambar.jpg
 social:
-  name: Shangzhi Huang
+  name: R. Adlian Naufal Fikri
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://www.facebook.com/adlian.naufal.1
+    - https://github.com/adliannfl
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
